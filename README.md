@@ -26,6 +26,6 @@ Key Insights
 - All vehicles in the dataset are CAFV eligible.
 
 How to Use
-- Open EV_Dashboard.twbx in Tableau Desktop or Tableau Public.
+- Download Electric_Vehicles_Data_Analytics.twbx and open in Tableau Desktop or Tableau Public.
 - Use filters to explore data by state and EV type.
 - Hover over charts for detailed tooltips and insights.
